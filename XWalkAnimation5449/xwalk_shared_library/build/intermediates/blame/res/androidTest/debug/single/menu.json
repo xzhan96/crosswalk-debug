@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/xiaofeng/work/examples/crosswalk-debug-samples/crosswalk-debug/XWalkAnimation54492/xwalk_shared_library/build/intermediates/res/merged/androidTest/debug/menu/select_action_menu.xml",
+        "source": "/home/xiaofeng/work/examples/crosswalk-debug-samples/crosswalk-debug/XWalkAnimation54492/xwalk_shared_library/build/intermediates/bundles/debug/res/menu/select_action_menu.xml"
+    },
+    {
+        "merged": "/home/xiaofeng/work/examples/crosswalk-debug-samples/crosswalk-debug/XWalkAnimation5449/xwalk_shared_library/build/intermediates/res/merged/androidTest/debug/menu/select_action_menu.xml",
+        "source": "/home/xiaofeng/work/examples/crosswalk-debug-samples/crosswalk-debug/XWalkAnimation5449/xwalk_shared_library/build/intermediates/bundles/debug/res/menu/select_action_menu.xml"
+    }
+]

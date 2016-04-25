@@ -1,0 +1,55 @@
+<LinearLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xwalk="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <Button   android:id="@+id/run_animation1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Animation1" />
+
+        <Button   android:id="@+id/run_animation2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Animation2" />
+
+        <TextView
+            android:id="@+id/id_url"
+            android:singleLine="true"
+            android:gravity="center"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="url"
+            android:textColor="#44000000"
+            android:textSize="23sp" />
+
+        <ImageButton
+            android:id="@+id/id_refresh"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/selector_refresh" />
+    </LinearLayout>
+
+    <org.xwalk.core.XWalkView
+        android:id="@+id/xwalkview1"
+        android:layout_width="wrap_content"
+        android:layout_height="300dp"
+        xwalk:animatable="false">
+    </org.xwalk.core.XWalkView>
+
+    <org.xwalk.core.XWalkView
+        android:id="@+id/xwalkview2"
+        android:layout_width="wrap_content"
+        android:layout_height="300dp"
+        xwalk:animatable="true">
+    </org.xwalk.core.XWalkView>
+
+</LinearLayout>
