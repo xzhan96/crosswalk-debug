@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/xiaofeng/work/examples/crosswalk-debug-samples/crosswalk-debug/XWalkDownloading6678/xwalk_shared_library/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/home/xiaofeng/work/examples/crosswalk-debug-samples/crosswalk-debug/XWalkDownloading6678/xwalk_shared_library/src/debug/jniLibs"/></dataSet></merger>

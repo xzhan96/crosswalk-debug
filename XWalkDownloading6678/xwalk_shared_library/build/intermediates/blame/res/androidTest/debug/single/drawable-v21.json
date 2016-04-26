@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/xiaofeng/work/examples/crosswalk-debug-samples/crosswalk-debug/XWalkDownloading6678/xwalk_shared_library/build/intermediates/res/merged/androidTest/debug/drawable-v21/button_borderless_compat.xml",
+        "source": "/home/xiaofeng/work/examples/crosswalk-debug-samples/crosswalk-debug/XWalkDownloading6678/xwalk_shared_library/build/intermediates/bundles/debug/res/drawable-v21/button_borderless_compat.xml"
+    },
+    {
+        "merged": "/home/xiaofeng/work/examples/crosswalk-debug-samples/crosswalk-debug/XWalkDownloading6678/xwalk_shared_library/build/intermediates/res/merged/androidTest/debug/drawable-v21/button_compat.xml",
+        "source": "/home/xiaofeng/work/examples/crosswalk-debug-samples/crosswalk-debug/XWalkDownloading6678/xwalk_shared_library/build/intermediates/bundles/debug/res/drawable-v21/button_compat.xml"
+    }
+]

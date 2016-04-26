@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/xiaofeng/work/examples/crosswalk-debug-samples/crosswalk-debug/XWalkDownloading6678/xwalk_shared_library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/verify_checkmark.png",
+        "source": "/home/xiaofeng/work/examples/crosswalk-debug-samples/crosswalk-debug/XWalkDownloading6678/xwalk_shared_library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/verify_checkmark.png"
+    },
+    {
+        "merged": "/home/xiaofeng/work/examples/crosswalk-debug-samples/crosswalk-debug/XWalkDownloading6678/xwalk_shared_library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/ic_search.png",
+        "source": "/home/xiaofeng/work/examples/crosswalk-debug-samples/crosswalk-debug/XWalkDownloading6678/xwalk_shared_library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/ic_search.png"
+    },
+    {
+        "merged": "/home/xiaofeng/work/examples/crosswalk-debug-samples/crosswalk-debug/XWalkDownloading6678/xwalk_shared_library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/ic_warning.png",
+        "source": "/home/xiaofeng/work/examples/crosswalk-debug-samples/crosswalk-debug/XWalkDownloading6678/xwalk_shared_library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/ic_warning.png"
+    },
+    {
+        "merged": "/home/xiaofeng/work/examples/crosswalk-debug-samples/crosswalk-debug/XWalkDownloading6678/xwalk_shared_library/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/ic_menu_share_holo_light.png",
+        "source": "/home/xiaofeng/work/examples/crosswalk-debug-samples/crosswalk-debug/XWalkDownloading6678/xwalk_shared_library/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/ic_menu_share_holo_light.png"
+    }
+]
