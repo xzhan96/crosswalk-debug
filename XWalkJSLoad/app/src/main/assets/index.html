@@ -1,0 +1,33 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>demotitle></title>
+    <script language="javascript">
+function GetList(){
+    var i=window.javatojs.getSize();
+    for(var n=0;n<i;n++){
+        var jsdata= window.javatojs.getObject(n);//拿到activity里面的属性javadata
+        window.javatojs.printStr("test");
+    }
+}
+function OnKeyUp() {
+    var keycode = window.javatojs.getKeyCode();
+    window.javatojs.printStr(keycode);
+}
+</script>
+</head>
+<body style="background-color:#fff;">
+<font size="10" face="Verdana">
+This is a test for java and javascript interaction, click the "button", and check the logcat.
+</font>
+<table width="400" align="center"><tr><td>
+    <p>
+    <table width="1000" align="center">
+        <div id="output"  style="visibility:hidden;" >test</div>
+        <input type="submit" style="width:500px;height:100px;" value="buttons"
+               onclick="document.getElementById('output').innerHTML=window.javatojs.Callfunction()"/>
+        <br>
+</td></tr></table>
+</body>
+</html>
